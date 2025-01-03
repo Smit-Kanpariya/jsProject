@@ -9,6 +9,7 @@ body{
     border: 6px solid black;
     margin: 2.5rem;
 }
+
 .btn-container{
     display: flex;
     justify-content: center;
