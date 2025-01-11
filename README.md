@@ -9,8 +9,8 @@ Check out the live version of the game here: [Simon Says Game](https://js-projec
 ---
 ## How to Play
 
-1. Click on the "Start" button to begin.
-2. Watch carefully as the game highlights a sequence of colors.
+1. Click anykey of keyboard to begin.
+2. Watch carefully as the game highlights(flash) a sequence of colors.
 3. Repeat the sequence by clicking on the corresponding color tiles.
 4. Each round adds a new color to the sequence.
 5. The game ends when you make a mistake. Try to beat your high score!
