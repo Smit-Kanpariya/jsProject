@@ -41,7 +41,6 @@ Check out the live version of the game here: [Simon Says Game](https://js-projec
 
 ---
 
-
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
